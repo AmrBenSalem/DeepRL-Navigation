@@ -82,10 +82,10 @@ In this project, 2 algorithms will be used :
 
 **DQN neural network architecture 1 :**
 
-	*   (fc1): Linear(in_features=37, out_features=64, bias=True) + ReLU()
-    	*   (fc2): Linear(in_features=64, out_features=64, bias=True) + ReLU()
-    	*   (fc3): Linear(in_features=64, out_features=4, bias=True) 
-	*   Loss: MSELoss()
+*   (fc1): Linear(in_features=37, out_features=64, bias=True) + ReLU()
+*   (fc2): Linear(in_features=64, out_features=64, bias=True) + ReLU()
+*   (fc3): Linear(in_features=64, out_features=4, bias=True) 
+*   Loss: MSELoss()
 
 		
 **Results:**
